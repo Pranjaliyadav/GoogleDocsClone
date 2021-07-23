@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GoogleDocsClone/static/css/main.84cc3ee0.chunk.css",
+    "main.js": "/GoogleDocsClone/static/js/main.86e03c74.chunk.js",
+    "main.js.map": "/GoogleDocsClone/static/js/main.86e03c74.chunk.js.map",
+    "runtime-main.js": "/GoogleDocsClone/static/js/runtime-main.39d25d4f.js",
+    "runtime-main.js.map": "/GoogleDocsClone/static/js/runtime-main.39d25d4f.js.map",
+    "static/css/2.59dee6c0.chunk.css": "/GoogleDocsClone/static/css/2.59dee6c0.chunk.css",
+    "static/js/2.3bb15671.chunk.js": "/GoogleDocsClone/static/js/2.3bb15671.chunk.js",
+    "static/js/2.3bb15671.chunk.js.map": "/GoogleDocsClone/static/js/2.3bb15671.chunk.js.map",
+    "index.html": "/GoogleDocsClone/index.html",
+    "static/css/2.59dee6c0.chunk.css.map": "/GoogleDocsClone/static/css/2.59dee6c0.chunk.css.map",
+    "static/css/main.84cc3ee0.chunk.css.map": "/GoogleDocsClone/static/css/main.84cc3ee0.chunk.css.map",
+    "static/js/2.3bb15671.chunk.js.LICENSE.txt": "/GoogleDocsClone/static/js/2.3bb15671.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39d25d4f.js",
+    "static/css/2.59dee6c0.chunk.css",
+    "static/js/2.3bb15671.chunk.js",
+    "static/css/main.84cc3ee0.chunk.css",
+    "static/js/main.86e03c74.chunk.js"
+  ]
+}
